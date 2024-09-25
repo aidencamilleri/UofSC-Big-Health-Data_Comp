@@ -19,5 +19,5 @@ The analysis identified a pattern related to coronary disease, with key genes in
 
 ## Acknowledgements
 
-- **Team Members**: Bo Dwyer, Kyle Barretto, Jash Hyland
+- **Team Members**: Bo Dwyer, Kyle Barretto, Jack Hyland
 - **References**: Oskolkov, Nikolay. “How to Cluster in High Dimensions.” Medium, Towards Data Science, 30 July 2019.
